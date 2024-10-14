@@ -1,5 +1,1 @@
-## [Unreleased]
-
-## [0.1.0] - 2024-10-11
-
-- Initial release
+Release notes for this project are kept here: https://github.com/imajes/pivotal_migrator/releases

@@ -6,3 +6,9 @@
 /pkg/
 /spec/reports/
 /tmp/
+.envrc
+/scratch
+*.log
+Gemfile.lock
+/sorbet/rbi
+/sorbet
